@@ -26,27 +26,48 @@ https://github.com/shreyamaity09/wedding_management
 This is a Admin based project
 
 different module made by different member
-member1_main_dashboard.py where it will join the other member module and show the different mangement
-member2_guests.py where the admin will save the guest details 
-member3_vendors.py the admin saves what the guests wants in the wedding and note it here
-member4_venues_events.py the admin notes the venues and events here for the guests 
+member1_main_dashboard.py 
+where it will join the other member module and show the different mangement
+member2_guests.py 
+where the admin will save the guest details 
+member3_vendors.py 
+the admin saves what the guests wants in the wedding and note it here
+member4_venues_events.py 
+the admin notes the venues and events here for the guests 
+(eg. engagement, haldi,sangit,etc)
 
-#Main Dashboard
-guest management
-vendors management
-venues and events management
-Budget Management
+#Shristi 411Main Dashboard
+
+#Shreya 460 guest management
+
+#Pooja 484 vendors management
+
+#Mubashira 498 venues and events management
+
+#Leena 429 Budget Management
 
 
 #Technology used
-Language: Python
-GUI : Tkinter
-Database : MongoDB
-Database Library : Pymongo
+
+1. Language: Python
+
+2. GUI : Tkinter
+
+3. Database : MongoDB
+
+4. Database Library : Pymongo
 
 #Terminal Extensions
 
 For mongoDb connection 
 pip install pymongo
 
+#uses CRUD OPERATION 
 
+1. Create (guest,vendors,venues and events)
+
+2. Update  (guest,vendors,venues and events)
+
+3. Delete  (guest,vendors,venues and events)
+
+4. Clear  (guest,vendors,venues and events)
